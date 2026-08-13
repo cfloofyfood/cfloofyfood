@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/290d4a06-6b06-4f0a-bb53-82e39339bf96" />
 
-<!--
-**cfloofyfood/cfloofyfood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 
+<p align="center">  *. • 𝐛𝐢𝐨 ~
 
-Here are some ideas to get you started:
+<h4>
+        
+*• 𝐧𝐚𝐦𝐞; 𝐜𝐟𝐥𝐨𝐨𝐟𝐲𝐟𝐨𝐨𝐝 (𝐚𝐧𝐲/𝐚𝐥𝐥)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*• 𝐚𝐥𝐰𝐚𝐲𝐬 𝐚𝐧 𝐚𝐫𝐭𝐢𝐬𝐭, 𝐛𝐮𝐭 𝐢 𝐝𝐨 𝐚 𝐛𝐮𝐧𝐜𝐡 𝐨𝐟 𝐨𝐭𝐡𝐞𝐫 𝐫𝐚𝐧𝐝𝐨𝐦 𝐬𝐞𝐜𝐫𝐞𝐭 𝐭𝐡𝐢𝐧𝐠𝐬 ;)
+
+*• 𝐝𝐧𝐢; 𝐓.𝐑.𝐀.𝐒.𝐇, 𝐧𝐬𝐟𝐰, <𝟏𝟑, 𝐚𝐢 𝐮𝐬𝐞𝐫𝐬 (𝐜𝐡𝐚𝐭𝐠𝐩𝐭, 𝐜𝐥𝐚𝐮𝐝𝐞, 𝐦𝐞𝐭𝐚, 𝐦𝐢𝐝𝐣𝐨𝐮𝐫𝐧𝐞𝐲, 𝐜.𝐚𝐢, 𝐞𝐭𝐜.)
+
+*• 𝐝𝐨𝐧'𝐭 𝐬𝐭𝐞𝐚𝐥 𝐨𝐫 𝐜𝐨𝐩𝐲!! 𝐥𝐢𝐠𝐡𝐭 𝐢𝐧𝐬𝐩𝐨 𝐢𝐬 𝐨𝐤 :)
